@@ -1,0 +1,5 @@
+PetShop
+
+Projetinho feito usando HTML, CSS e JS sem framework.
+
+Uma página simples que pede alguns dados do usuário e exibe um alert caso tudo seja devidamente preenchido, e outro caso falte algum(ns) campos(s). A intenção é melhorá-lo conforme meu aprendizado. 
